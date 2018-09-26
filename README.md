@@ -45,7 +45,7 @@ The Steemcleaners team and designated community members will review all reports 
 
 The nature of the account or it's prior contact history with Cheetah or Steemcleaners will not bear any effect on its treatment by the Team under the anti-phishing initiative. 
 
-# @Plentyofphish (STEEM) Keyholder List
+# @Plentyofphish (Steem) Keyholder List
 The following account holders may use the "Mute" and "Unmute" feature of the @plentyofphish account, which allows for syncing with the phishing.txt list: 
 @arcange
 @bullionstackers
@@ -67,7 +67,7 @@ The following account holders may use the "Mute" and "Unmute" feature of the @pl
 
 **A:** No. @guard or @mack-bot flags are small enough to not cause undue reputational damage to an account. They are not removed unless severe reputational damage has occurred regardless.
 
-**Q:** How do I remove posting authority from a 3rd party STEEM service or app?
+**Q:** How do I remove posting authority from a 3rd party Steem service or app?
 
 **A:** https://v2.steemconnect.com/apps/authorized
 
@@ -83,7 +83,7 @@ The following account holders may use the "Mute" and "Unmute" feature of the @pl
 
 **A:** Do not click on random links or trust websites that ask you for your keys/password unless you're 100% they're legitimate.
 
-**Q:** Can my account become compromised from STEEM-related mobile apps?
+**Q:** Can my account become compromised from Steem-related mobile apps?
 
 **A:** There are many phishing mobile apps out there. Do not install them unless you verified them. Never log in with your password.
 

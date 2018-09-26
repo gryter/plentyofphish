@@ -1,4 +1,4 @@
-@Plentyofphish is the STEEM account that holds the list of hacked (phished) accounts or accounts spawned by hackers.
+@Plentyofphish is the Steem account that holds the list of hacked (phished) accounts or accounts spawned by hackers.
 
 It operates in conjunction with @steemcleaners, @spaminator, @guard and @mack-bot accounts. 
 
@@ -6,8 +6,8 @@ This repository is maintained by @guiltyparties from the @steemcleaners team.
 
 # Procedures for Addition/Removal
 
-1. STEEM accounts deemed as being under hacker control are added to the Phishing.txt list.
-2. STEEM accounts confirmed as recovered by their legitimate owners are removed from the Phishing.txt list.
+1. Steem accounts deemed as being under hacker control are added to the Phishing.txt list.
+2. Steem accounts confirmed as recovered by their legitimate owners are removed from the Phishing.txt list.
 3. The Phishing.txt list is automatically synced with the "Mute" function of the @plentyofphish account on a regular basis.
 4. The @plentyofphish "Mute" list is regularly synced with the Phishing Masterlist managed by the @steemcleaners team.
 5. Suggested additions/removals from Phishing.txt will be reviewed on a regular basis. 
@@ -24,7 +24,7 @@ The Steemcleaners team will automatically downvote ("Flag") STEEM posts and/or c
 2. The post/comment contains a direct clickable URL to a phishing website; or
 3. The post/comment contains a masked, non-clickable URL to a phishing website.
 
-The Steemcleaners team will automatically downvote ("Flag") STEEM posts and/or comments with @mack-bot where accounts are deemed under hacker control.
+The Steemcleaners team will automatically downvote ("Flag") Steem posts and/or comments with @mack-bot where accounts are deemed under hacker control.
 
 The Steemcleaners team will remove downvotes made by the @steemcleaners and/or @spaminator, where possible, under the following circumstances:
 1. The account owner has restored full control of the account and has removed the malicious URLs; or

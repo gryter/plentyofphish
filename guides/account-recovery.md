@@ -26,6 +26,11 @@ Each account creation service has its own recovery request form and is solely re
 2. Follow the directions on the website. You will need to provide a piece of verification as per Category 1 or 2 as outlined on the website.
 3. Send an email with your information and verification to anonsteem [at] someguy123 [dot] com.
 
+## BlockTrades
+<sup>https://blocktrades.us</sup>
+1. Email support [at] blocktrades [dot] us.
+2. Follow their instructions.
+
 ## SteemCreate
 <sup>https://www.steemcreate.com</sup>
 1. Contact netuoso#9548 on Discord.

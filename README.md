@@ -14,12 +14,12 @@ This repository is maintained by @guiltyparties from the @steemcleaners team.
 
 # Policy
 
-The Steemcleaners team will manually downvote ("Flag") STEEM accounts to zero reputation, with @steemcleaners and/or @spaminator, under the following circumstances:
+The Steemcleaners team will manually downvote ("Flag") Steem accounts to zero reputation, with @steemcleaners and/or @spaminator, under the following circumstances:
 1. The account is actively posting phishing messages; 
 2. The account will likely be used to post phishing messages in the near future; and
 3. The account was created solely for the purposes of phishing.
 
-The Steemcleaners team will automatically downvote ("Flag") STEEM posts and/or comments with @guard, irrespective of which account posts them, under the following circumstances: 
+The Steemcleaners team will automatically downvote ("Flag") Steem posts and/or comments with @guard, irrespective of which account posts them, under the following circumstances: 
 1. The post/comment contains a short-link that, once unfurled, directs users to a phishing website;
 2. The post/comment contains a direct clickable URL to a phishing website; or
 3. The post/comment contains a masked, non-clickable URL to a phishing website.

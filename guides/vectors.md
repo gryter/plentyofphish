@@ -15,3 +15,7 @@ In several cases, hackers targetted specific individuals, tricking them in chat 
 ## Hacking
 
 At least one user had their home computer compromised in search of their master password. The best way to remedy this sort of attack is to keep your master password in an encrypted container and backed up offline.
+
+## Mobile Malware
+
+There are numerous cases of users downloading mobile apps from varous appstores that may look legitimate but are actually phishing.

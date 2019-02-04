@@ -41,6 +41,12 @@ Each account creation service has its own recovery request form and is solely re
 1. Contact the SteemFounders team on Discord here https://discord.gg/B6MgyRc. 
 2. Follow their instructions.
 
+## SteemMonsters
+<sup></sup>
+1. Contact the Steemmonsters team on Discord here https://discord.gg/UKVWK7B.
+2. Alternatively, send an email to support@steemmonsters.com.
+3. Follow their instructions.
+
 ## GuiltyParties
 <sup>https://guiltyparties.com</sup>
 1. Email guiltyparties [at] protonmail [dot] com to initiate your account recovery process. 

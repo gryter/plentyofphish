@@ -20,6 +20,12 @@ If you signed up through the Steemit.com website, your recovery account is @stee
 
 Each account creation service has its own recovery request form and is solely responsible for recovering the account. Steemit Inc has no way of conducting password recoveries of accounts made through 3rd party services.
 
+## Actifit
+<sup>https://actifit.io</sup>
+1. Contact Actifit team on Discord here https://discord.gg/dtkHuKx.
+2. Alternatively, send an email to info@actifit.io.
+3. Follow their instructions
+
 ## AnonSteem
 <sup>https://anon.steem.network</sup>
 1. Go to https://anon.steem.network/recovery.html

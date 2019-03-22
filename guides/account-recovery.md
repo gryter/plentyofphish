@@ -15,6 +15,7 @@ If you signed up through the Steemit.com website, your recovery account is @stee
 3. When prompted for an email address, be sure to use the email you used to sign up with.
 4. Monitor your email and wait up to 24 hours for your recovery email.
 5. If you don't get your email within 24 hours, go to steem.chat and ask for assistance in the #help room.
+6. Contact Steemit Inc at support [at] steemit [dot] com if wait is over 72 hours.
 
 # Accounts Created via 3rd Party Services
 

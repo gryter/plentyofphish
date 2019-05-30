@@ -38,6 +38,11 @@ Each account creation service has its own recovery request form and is solely re
 1. Email support [at] blocktrades [dot] us.
 2. Follow their instructions.
 
+## QuickSteem
+Uses <sup>https://blocktrades.us</sup> api
+1. Email support [at] blocktrades [dot] us.
+2. Follow their instructions.
+
 ## SteemCreate
 <sup>https://www.steemcreate.com</sup>
 1. Contact netuoso#9548 on Discord.

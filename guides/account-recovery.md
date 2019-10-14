@@ -54,6 +54,11 @@ Each account creation service has its own recovery request form and is solely re
 2. Alternatively, send an email to support@steemmonsters.com.
 3. Follow their instructions.
 
+## Steem Ninja
+<sup>https://account.steem.ninja</sup>
+1. Go to https://account.steem.ninja/account_recovery and fill out the form.
+2. Follow their instructions and provide additional information if required.
+
 ## GuiltyParties
 <sup>https://guiltyparties.com</sup>
 1. Email guiltyparties [at] protonmail [dot] com to initiate your account recovery process. 

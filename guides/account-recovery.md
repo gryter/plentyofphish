@@ -33,6 +33,13 @@ Each account creation service has its own recovery request form and is solely re
 2. Follow the directions on the website. You will need to provide a piece of verification as per Category 1 or 2 as outlined on the website.
 3. Send an email with your information and verification to anonsteem [at] someguy123 [dot] com.
 
+## BDVoter
+<sup>https://accountcreate.bdvoter.com</sup>
+1. Go to Discord https://discord.gg/6zWpukW
+2. Provide username and verify if account was paid for.
+3. Instruct the original payee to send a verification memo.
+4. Use https://github.com/CodeBull/SteemAccountRecovery to recover the account.
+
 ## BlockTrades
 <sup>https://blocktrades.us</sup>
 1. Email support [at] blocktrades [dot] us.

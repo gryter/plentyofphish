@@ -1,8 +1,8 @@
-@Plentyofphish is the Steem account that holds the list of hacked (phished) accounts or accounts spawned by hackers.
+@Plentyofphish is the Hive account that holds the list of hacked (phished) accounts or accounts spawned by hackers.
 
-It operates in conjunction with @steemcleaners, @spaminator, @guard and @mack-bot accounts. 
+It operates in conjunction with @hivewatchers, @spaminator, @guard and @theycallmedan accounts. 
 
-This repository is maintained by @guiltyparties from the @steemcleaners team. 
+This repository is maintained by @guiltyparties from the @hivewatchers team. 
 
 # Procedures for Addition/Removal
 
@@ -14,7 +14,7 @@ This repository is maintained by @guiltyparties from the @steemcleaners team.
 
 # Policy
 
-The Steemcleaners team will manually downvote ("Flag") Steem accounts to zero reputation, with @steemcleaners and/or @spaminator, under the following circumstances:
+The Steemcleaners team will manually downvote ("Flag") Steem accounts to zero reputation, with @hivewatchers and/or @spaminator, under the following circumstances:
 1. The account is actively posting phishing messages; 
 2. The account will likely be used to post phishing messages in the near future; and
 3. The account was created solely for the purposes of phishing.
@@ -30,7 +30,7 @@ The Steemcleaners team will remove downvotes made by the @steemcleaners and/or @
 1. The account owner has restored full control of the account and has removed the malicious URLs; or
 2. The account owner has restored full control of the account and the existing instances of malicious links are either defunct or individually flagged.
 
-The Steemcleaners team will not remove downvotes made by @steemcleaners and/or @spaminator under the following circumstances:
+The Steemcleaners team will not remove downvotes made by @hivewatchers and/or @spaminator under the following circumstances:
 1. The downvoted post/comment is <12 hours to payout (6+ days old), making removal impossible;
 2. The downvoted post/comment has been deleted, making removal impossible;
 3. We have reason to suspect the account is still compromised; or
@@ -43,29 +43,25 @@ The Steemcleaners team will not remove downvotes made by @guard or @mack-bot by 
 
 The Steemcleaners team and designated community members will review all reports of compromised and restored accounts on an individual and objective basis. 
 
-The nature of the account or it's prior contact history with Cheetah or Steemcleaners will not bear any effect on its treatment by the Team under the anti-phishing initiative. 
+The nature of the account or it's prior contact history with Cheetah or Hivewatchers will not bear any effect on its treatment by the Team under the anti-phishing initiative. 
 
 # @Plentyofphish (Steem) Keyholder List
 The following account holders may use the "Mute" and "Unmute" feature of the @plentyofphish account, which allows for syncing with the phishing.txt list: 
-@arcange
-@bullionstackers
 @guiltyparties
-@logic
-@patrice
-@pjau
+
 
 # FAQ
 **Q:** My account was recovered but it is still on the list. How do I get it removed?
 
-**A:** Open an Issue here or let us know on the Steemcleaners Discord https://discord.gg/W2ykxCY or Steem.chat https://steem.chat/channel/steemcleaners-public
+**A:** Open an Issue here or let us know on the Hivewatchers Discord https://discord.gg/W2ykxCY 
 
-**Q:** My reputation is zero because I was flagged by @steemcleaners or @spaminator. What can I do?
+**Q:** My reputation is zero because I was flagged by @hivewatchers or @spaminator. What can I do?
 
 **A:** Please make sure you edited out malicious links that hackers posted in the posts/comments they made using your account.
 
 **Q:** Can you take @guard or @mack-bot flags off my comments?
 
-**A:** No. @guard or @mack-bot flags are small enough to not cause undue reputational damage to an account. They are not removed unless severe reputational damage has occurred regardless.
+**A:** No. @guard or @spaminator flags are small enough to not cause undue reputational damage to an account. They are not removed unless severe reputational damage has occurred regardless.
 
 **Q:** How do I remove posting authority from a 3rd party Steem service or app?
 

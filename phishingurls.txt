@@ -307,6 +307,7 @@ steembotup.gq
 steembotup.ml
 steembotup.tk
 steemconnect2.000webhostapp.com
+steemconnect.xyz
 steemers.aba.ae
 steemfoto.cf
 steemfoto.ga

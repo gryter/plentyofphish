@@ -2,6 +2,8 @@ aba.ae
 affiliatemarketer.website
 alphy.co.nf
 appics.ml
+appicsmainnet.blogspot.com
+appicsnetwork.blogspot.com
 autobidbot.cf
 autobidbot.ga
 autobidbot.gq
@@ -56,6 +58,7 @@ coolman.ml
 coolman.tk
 coolman.website
 cutt.us
+defiairdrop.ml
 dereferer.me
 eb2a.com
 ecotrain.cf
@@ -118,9 +121,11 @@ johnylinks.ga
 johnylinks.gq
 johnylinks.ml
 johnylinks.tk
+justhive.blogspot.com
+justinhiveairdrop.blogspot.com
+justnetwork-defi.blogspot.com
 justnetwork.my.id
 justnetwork.tech
-justnetwork-defi.blogspot.com
 kimberlyameyrealty.ga
 koreas.cf
 lazherleeja.co.nf
@@ -507,7 +512,6 @@ steemupper.gq
 steemupper.ml
 steenit.cf
 steewit.com
-stemit.com
 stemitwallet.cf
 stemitwallet.com
 stemitwallet.ga

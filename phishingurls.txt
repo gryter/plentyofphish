@@ -7,6 +7,14 @@ appics.gq
 appics.ml
 appics.nf
 appics.tk
+appicsfork.cf
+appicsfork.ga
+appicsfork.gq
+appicsfork.info
+appicsfork.ml
+appicsfork.nf
+appicsfork.tk
+appicsfork.website
 appicsmainnet.blogspot.com
 appicsnetwork.blogspot.com
 autobidbot.cf

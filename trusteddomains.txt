@@ -21,6 +21,7 @@ dlease.io
 dline.xyz
 dlux.io
 dpoll.xyz
+dunksocial.io
 ecency.com
 exode.io
 exxp.io
@@ -29,6 +30,7 @@ hashkings.app
 haveyoubeenhere.com
 hive-engine.com
 hive-keychain.com
+hive-roller.com
 hive.blog
 hive.blue
 hive.io
@@ -43,13 +45,16 @@ hivecreators.co
 hivedapps.com
 hivedocs.info
 hivefe.st
+hivelist.io
 hiveonboard.com
 hivepay.io
+hiveposh.com
 hiveprojects.io
 hiverss.com
 hivesearcher.com
 hivesigner.com
 hiveslotgames.com
+hivestats.io
 hivewallet.app
 hivewatchers.com
 inji.com
@@ -66,6 +71,7 @@ neoxian.city
 nftm.art
 nftshowroom.com
 nfttunz.io
+oceanplanet.io 
 openhive.chat
 peakd.com
 peakmonsters.com
@@ -76,6 +82,7 @@ rabona.io
 risingstar.com
 splinterlands.com
 splintertalk.io
+sportstalksocial.com
 stemgeeks.net
 syncad.com
 themancaveproject.com

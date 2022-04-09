@@ -7,6 +7,7 @@ aureal.one
 ausbit.dev
 blocktrades.us
 buymeberries.com
+cardauctionz.com
 cinetv.blog
 crypto-shots.io
 cryptobrewmaster.io
@@ -38,6 +39,7 @@ hiveblockexplorer.com
 hiveblocks.com
 hivebuzz.me
 hivechain.app
+hivecreators.co
 hivedapps.com
 hivedocs.info
 hivefe.st
@@ -59,6 +61,7 @@ leofinance.io
 liketu.org
 lmac.gallery
 lucksacks.com
+monstermarket.io
 neoxian.city
 nftm.art
 nftshowroom.com

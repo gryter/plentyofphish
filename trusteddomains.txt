@@ -45,6 +45,7 @@ hivecreators.co
 hivedapps.com
 hivedocs.info
 hivefe.st
+hiveland.live
 hivelist.io
 hiveonboard.com
 hivepay.io
@@ -80,7 +81,7 @@ podping.cloud
 podping.org
 proofofbrain.blog
 rabona.io
-risingstar.com
+risingstargame.com
 spk.network
 splinterlands.com
 splintertalk.io

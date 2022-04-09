@@ -25,11 +25,13 @@ exxp.io
 guiltyparties.com
 hashkings.app
 haveyoubeenhere.com
+hive-engine.com
 hive-keychain.com
 hive.blog
 hive.blue
 hive.io
 hive.pizza
+hive.vote
 hivean.com
 hiveblockexplorer.com
 hiveblocks.com
@@ -41,6 +43,8 @@ hivefe.st
 hiveonboard.com
 hivepay.io
 hiveprojects.io
+hiverss.com
+hivesearcher.com
 hivesigner.com
 hiveslotgames.com
 hivewallet.app
@@ -48,6 +52,7 @@ hivewatchers.com
 inji.com
 kryptogamers.com
 lensy.io
+leodex.io
 leofi.io 
 leofinance.io
 liketu.org
@@ -77,4 +82,5 @@ usehive.com
 vimm.tv
 vybrainium.com
 waivio.com
+whive.network
 whyhive.co

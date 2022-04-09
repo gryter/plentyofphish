@@ -30,11 +30,13 @@ hive.blog
 hive.blue
 hive.io
 hive.pizza
+hivean.com
 hiveblockexplorer.com
 hiveblocks.com
 hivebuzz.me
 hivechain.app
 hivedapps.com
+hivedocs.info
 hivefe.st
 hiveonboard.com
 hivepay.io

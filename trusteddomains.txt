@@ -2,6 +2,7 @@
 3speak.tv
 actifit.io
 apemining.club
+arcange.eu
 blocktrades.us
 cryptobrewmaster.io
 d.buzz
@@ -25,6 +26,7 @@ hivechain.app
 hivedapps.com
 hivefe.st
 hivesigner.com
+hivewatchers.com
 inji.com
 leofinance.io
 liketu.org
@@ -42,6 +44,7 @@ risingstar.com
 splinterlands.com
 splintertalk.io
 stemgeeks.net
+travelfeed.io
 tribaldex.com
 truvvl.com
 vimm.tv

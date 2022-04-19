@@ -46,6 +46,7 @@ hivedapps.com
 hivedocs.info
 hivefe.st
 hiveland.live
+hiveledger.io
 hivelist.io
 hiveonboard.com
 hivepay.io

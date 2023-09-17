@@ -1,6 +1,6 @@
 @Plentyofphish is the Hive account that holds the list of hacked (phished) accounts or accounts spawned by hackers.
 
-It operates in conjunction with @hivewatchers, @spaminator, @guard and @theycallmedan accounts. 
+It operates in conjunction with @hivewatchers, @spaminator, @keys-defender accounts. 
 
 This repository is maintained by @guiltyparties from the @hivewatchers team. 
 
@@ -8,7 +8,7 @@ This repository is maintained by @guiltyparties from the @hivewatchers team.
 
 1. Hive accounts deemed as being under hacker control are added to the Phishing.txt list.
 2. Hive accounts confirmed as recovered by their legitimate owners are removed from the Phishing.txt list.
-3. The Phishing.txt list is automatically synced with the "Mute" function of the @plentyofphish account on a regular basis.
+~~3. The Phishing.txt list is automatically synced with the "Mute" function of the @plentyofphish account on a regular basis.~~ This feature has been depricated.
 4. The @plentyofphish "Mute" list is regularly synced with the Phishing Masterlist managed by the @hivewatchers team.
 5. Suggested additions/removals from Phishing.txt will be reviewed on a regular basis. 
 
@@ -19,7 +19,7 @@ The Plenty of Phish team will manually downvote Hive accounts to zero reputation
 2. The account will likely be used to post phishing messages in the near future; and
 3. The account was created solely for the purposes of phishing.
 
-The Plenty of Phish team will automatically downvote Hive posts and/or comments with @guard, irrespective of which account posts them, under the following circumstances: 
+The Plenty of Phish team will automatically downvote Hive posts and/or comments with @spaminator, irrespective of which account posts them, under the following circumstances: 
 1. The post/comment contains a short-link that, once unfurled, directs users to a phishing website;
 2. The post/comment contains a direct clickable URL to a phishing website; or
 3. The post/comment contains a masked, non-clickable URL to a phishing website.
@@ -36,7 +36,7 @@ The Plenty of Phish team will not remove downvotes made by @hivewatchers and/or 
 3. We have reason to suspect the account is still compromised; or
 4. The account was created solely for the purposes of phishing.
 
-The Plenty of Phish team will not remove downvotes made by @guard or @spaminator by default unless: 
+The Plenty of Phish team will not remove downvotes by default unless: 
 1. Downvote removal is necessary to reverse severe* reputational damage to the account; and
 2. The account owner has restored full control of the account and has removed the malicious URLs. 
 *Reputation lowered to zero or thereabouts. 
@@ -61,7 +61,7 @@ The following account holders may use the "Mute" and "Unmute" feature of the @pl
 
 **Q:** Can you take @guard or @spaminator downvotes off my comments?
 
-**A:** No. @guard or @spaminator downvotes are small enough to not cause undue reputational damage to an account. They are not removed unless severe reputational damage has occurred regardless.
+**A:** No.  @spaminator downvotes are small enough to not cause undue reputational damage to an account. They are not removed unless severe reputational damage has occurred regardless.
 
 **Q:** How do I remove posting authority from a 3rd party Hive service or app?
 
